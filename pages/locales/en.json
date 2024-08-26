@@ -1,0 +1,11 @@
+{
+  "title": "Short Link to Original Link",
+  "step1": "Select Data Table",
+  "step2": "Select Short Link Field",
+  "step3": "Click the Button to Generate Original Links in Bulk",
+  "newField": "Original Link",
+  "genSign": "Generate 'Original Link' in Bulk",
+  "selectTable": "Select Data Table",
+  "selectField": "Select Short Link Field",
+  "tips": "Tips: If the 'Original Link' field does not exist, the plugin will automatically create it"
+}
